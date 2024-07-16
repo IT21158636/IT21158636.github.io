@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/IT21158636.github.io/static/css/main.26fcbbd3.css",
+    "main.js": "/IT21158636.github.io/static/js/main.ab15f38c.js",
+    "static/media/michael-yeates-resume.pdf": "/IT21158636.github.io/static/media/michael-yeates-resume.a701f3f0d0074d2227b8.pdf",
+    "static/media/logo.png": "/IT21158636.github.io/static/media/logo.cebad09469112db1ed00.png",
+    "static/media/me2.jpg": "/IT21158636.github.io/static/media/me2.9ebc0742fa99bafabe0d.jpg",
+    "index.html": "/IT21158636.github.io/index.html",
+    "static/media/close.svg": "/IT21158636.github.io/static/media/close.313a8e6ce95e72014ca00fb56d8b3ff3.svg",
+    "static/media/open.svg": "/IT21158636.github.io/static/media/open.196e865822b06a50385b031f9913c3a0.svg",
+    "main.26fcbbd3.css.map": "/IT21158636.github.io/static/css/main.26fcbbd3.css.map",
+    "main.ab15f38c.js.map": "/IT21158636.github.io/static/js/main.ab15f38c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26fcbbd3.css",
+    "static/js/main.ab15f38c.js"
+  ]
+}

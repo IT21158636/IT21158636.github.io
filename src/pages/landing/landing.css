@@ -1,0 +1,70 @@
+/* --- MOBILE STYLES --- */
+
+.landingImage {
+  position: absolute; /* Ensure it stays within the parent element if necessary */
+  bottom: 0;
+  right: 100px;
+  /* Add any other initial styles here */
+}
+
+@media (max-width: 768px) {
+  .landingImage {
+    right: 50%; /* Center horizontally by setting right to 50% */
+    transform: translateX(50%); /* Adjust back to center */
+    width: 100%; /* Make the image smaller, adjust as needed */
+    height: 200px; /* Maintain aspect ratio */
+  }
+}
+
+
+
+
+
+
+.landing .name {
+  font-size: 48px;
+}
+.landing .description {
+  font-size: 26px;
+}
+
+.landingImage {
+  right: 10px;
+  border-radius: 300px;
+  
+}
+
+/* .landing .socialIcons {
+  display: none;
+} */
+
+.landing .socialIcons {
+  display: flex;
+  position: absolute;
+  left: 50px;
+  bottom: 20px;
+}
+
+/* --- MEDIA QUERIES --- */
+
+@media (min-width: 750px) {
+  .landing .name {
+    font-size: 70px;
+    left: 100px;
+  }
+
+  .landing .description {
+    font-size: 32px;
+    /* left: 100px; */
+  }
+
+  .landingImage {
+    bottom: 0;
+    right: 100px;
+    
+  }
+
+  .landing .socialIcons {
+    flex-direction: column;
+  }
+}
